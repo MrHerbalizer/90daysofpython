@@ -1,0 +1,7 @@
+print("Hello World")
+print(7)
+print(17*21)
+print("I turned back thousands of times\nBut the power of speech has lost the track…\nBravo, with great loyalty you treated my wee disloyalty\nFrom where you turned away\nthose virtual tracks are still there")
+print("I am entangled in a web of turmoils\nI wish this would happen someday –\nmy pitiful condition should be yours\nThe nights i spent writhing on my bed\nSuch restless nights you would have passed too")
+print("I wanted you to call me\nThe name is still is on the lips,\nbut the voice has given way..")
+print("I tried turned back thousands of times\nBut the power of speech has lost the track…")
